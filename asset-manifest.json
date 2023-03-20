@@ -1,15 +1,15 @@
 {
-  "main.css": "/Order-form-/static/css/main.f73eeefc.chunk.css",
-  "main.js": "/Order-form-/static/js/main.f636b693.chunk.js",
-  "main.js.map": "/Order-form-/static/js/main.f636b693.chunk.js.map",
-  "static/css/1.9b09646a.chunk.css": "/Order-form-/static/css/1.9b09646a.chunk.css",
-  "static/js/1.7898acd3.chunk.js": "/Order-form-/static/js/1.7898acd3.chunk.js",
-  "static/js/1.7898acd3.chunk.js.map": "/Order-form-/static/js/1.7898acd3.chunk.js.map",
-  "runtime~main.js": "/Order-form-/static/js/runtime~main.976b7d8a.js",
-  "runtime~main.js.map": "/Order-form-/static/js/runtime~main.976b7d8a.js.map",
-  "static/css/main.f73eeefc.chunk.css.map": "/Order-form-/static/css/main.f73eeefc.chunk.css.map",
-  "static/css/1.9b09646a.chunk.css.map": "/Order-form-/static/css/1.9b09646a.chunk.css.map",
-  "index.html": "/Order-form-/index.html",
-  "precache-manifest.bae529a2ca0d6a517216ecaa0e8609d1.js": "/Order-form-/precache-manifest.bae529a2ca0d6a517216ecaa0e8609d1.js",
-  "service-worker.js": "/Order-form-/service-worker.js"
+  "main.css": "/Order_Placing_APP/static/css/main.f73eeefc.chunk.css",
+  "main.js": "/Order_Placing_APP/static/js/main.773313e1.chunk.js",
+  "main.js.map": "/Order_Placing_APP/static/js/main.773313e1.chunk.js.map",
+  "static/css/1.9b09646a.chunk.css": "/Order_Placing_APP/static/css/1.9b09646a.chunk.css",
+  "static/js/1.7898acd3.chunk.js": "/Order_Placing_APP/static/js/1.7898acd3.chunk.js",
+  "static/js/1.7898acd3.chunk.js.map": "/Order_Placing_APP/static/js/1.7898acd3.chunk.js.map",
+  "runtime~main.js": "/Order_Placing_APP/static/js/runtime~main.c1dcb663.js",
+  "runtime~main.js.map": "/Order_Placing_APP/static/js/runtime~main.c1dcb663.js.map",
+  "static/css/main.f73eeefc.chunk.css.map": "/Order_Placing_APP/static/css/main.f73eeefc.chunk.css.map",
+  "static/css/1.9b09646a.chunk.css.map": "/Order_Placing_APP/static/css/1.9b09646a.chunk.css.map",
+  "index.html": "/Order_Placing_APP/index.html",
+  "precache-manifest.2f9d210a5875e8d1ab7c5e78d0f05225.js": "/Order_Placing_APP/precache-manifest.2f9d210a5875e8d1ab7c5e78d0f05225.js",
+  "service-worker.js": "/Order_Placing_APP/service-worker.js"
 }

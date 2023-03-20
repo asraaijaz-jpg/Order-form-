@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Order-form-/precache-manifest.bae529a2ca0d6a517216ecaa0e8609d1.js"
+  "/Order_Placing_APP/precache-manifest.2f9d210a5875e8d1ab7c5e78d0f05225.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Order-form-/index.html", {
+workbox.routing.registerNavigationRoute("/Order_Placing_APP/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
