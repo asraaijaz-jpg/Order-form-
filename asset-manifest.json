@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Order-form-/static/css/main.9f6fd329.css",
+    "main.js": "/Order-form-/static/js/main.cc73cccf.js",
+    "index.html": "/Order-form-/index.html",
+    "main.9f6fd329.css.map": "/Order-form-/static/css/main.9f6fd329.css.map",
+    "main.cc73cccf.js.map": "/Order-form-/static/js/main.cc73cccf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f6fd329.css",
+    "static/js/main.cc73cccf.js"
+  ]
+}
