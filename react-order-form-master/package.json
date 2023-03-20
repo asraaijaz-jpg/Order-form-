@@ -1,7 +1,7 @@
 {
   "name": "order-app",
   "version": "0.1.0",
-  "homepage": "https://asraaijaz-jpg.github.io/Order-form-/",
+  "homepage": "https://asraaijaz-jpg.github.io/Order_Placing_APP",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
