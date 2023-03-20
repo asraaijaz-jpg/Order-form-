@@ -1,0 +1,31 @@
+.customer-type {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.menu {
+  display: flex;
+  flex-direction: column;
+}
+
+.category {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.items {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+@media (max-width: 310px) {
+  .customer-type {
+    justify-content: flex-start;
+    margin-left: 10px;
+    margin-bottom: 20px;
+  }
+}
